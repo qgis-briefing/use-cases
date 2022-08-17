@@ -1,1 +1,32 @@
-# use-case-1
+# QGIS Briefing
+Thanks for joining QGIS Briefing on 12 Aug 2022. Want to give it a try? Here are the relevant resources such as tutorial videos, code snippets and plugins of QGIS and use cases.
+
+## General Usage of QGIS
+For the general usage of QGIS, visit [QGIS Tutorials and Tips](https://www.qgistutorials.com/en/index.html)!
+
+## Use Case #1 - File Format Conversion
+Convert file format with few clicks! You may refer to the tutorial videos, e.g. [Convert DWG Files of AutoCAD into Shapefile in QGIS](https://youtu.be/qloaSsrNeAQ).
+
+## Use Case #2 - Use of Graphical Modeler
+Streamline your workflow with zero code. If you wish to have more understandings on QGIS Graphical Modeler, you may take a look on [QGIS Part 2 - Graphical Modeler](https://youtu.be/fjxJwMSp0K4). The QGIS model file shown to you during the briefing is also available in use-case-2 folder.
+
+If you are interested in converting CSV into point using QGIS, just watch [Converting CSV to a shapefile in QGIS](https://youtu.be/drIpvJm7OMs)!
+
+## Use Case #3 - Data Processing Automation
+Automate your task using > 50 lines of code. The source codes presented to you can be found in use-case-3 folder. Visit [QGIS using Python Programming for Beginners](https://youtu.be/dpJqmLIaELk) to know more about QGIS and Python.
+
+## Use Case #4 - Plan Production
+
+
+## Use Case #5 - Data Collection using QField
+An open source data collection tools, free to use and modify
+
+
+
+## Use Case #6 - Image Classification using Semi-automatic Change Detection Plugin
+
+
+## Use Case #7 - Analysis using Google Earth Engine
+Integration of Google Earth Engine function with QGIS Python Console
+
+

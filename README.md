@@ -16,16 +16,16 @@ If you are interested in converting CSV into point using QGIS, just watch [Conve
 Automate your task using > 50 lines of code. The source codes presented to you can be found in use-case-3 folder. Visit [QGIS using Python Programming for Beginners](https://youtu.be/dpJqmLIaELk) to know more about QGIS and Python.
 
 ## Use Case #4 - Plan Production
-If you want to make your first map/plan in QGIS, please have a look of this [procedure](https://www.qgistutorials.com/en/docs/making_a_map.html).
+If you want to make your first map/plan in QGIS, please have a look at this [procedure](https://www.qgistutorials.com/en/docs/making_a_map.html).
 
 ## Use Case #5 - Data Collection using QField
-QGIS provides an open source data collection tools, named QField. There is a demonstration [here](https://www.youtube.com/watch?v=5qE22Iz6ymA) for you to learn how to set-up a project, collect the data and sync with GIS platform.
+QGIS provides an open-source data collection tool, named QField. There is a demonstration [here](https://www.youtube.com/watch?v=5qE22Iz6ymA) for you to learn how to set-up a project, collect the data, and sync with GIS platform.
 
 ## Use Case #6 - Image Classification using Semi-automatic Change Detection Plugin
-This plugin provides a set of intertwined tools and an user interface for easing and automating the phases of land cover classification, from the download of remote sensing images to post-processing for assessing the classification accuracy. If you are interested, feel free to surf this [page](https://fromgistors.blogspot.com/p/semi-automatic-classification-plugin.html).
+This plugin provides a set of intertwined tools and a user interface for easing and automating the phases of land cover classification, from the download of remote sensing images to post-processing for assessing the classification accuracy. If you are interested, feel free to surf this [page](https://fromgistors.blogspot.com/p/semi-automatic-classification-plugin.html).
 
 ## Use Case #7 - Analysis using Google Earth Engine
-If you looks forward to learn raster data analysis. QGIS provides a way to integrate with one of the most powerful tool in the world, the Google Earth Engine through QGIS Python Console. You can start with this [tutorial](https://github.com/giswqs/qgis-earthengine-examples/).
+If you look forward to learning raster data analysis. QGIS provides a way to integrate with one of the most powerful tools in the world, the Google Earth Engine through QGIS Python Console. You can start with this [tutorial](https://github.com/giswqs/qgis-earthengine-examples/).
 
-## "You never know what you can do till you try."
-- William Cobbett
+## "You never know what you can do till you try." - William Cobbett
+

@@ -27,5 +27,5 @@ This plugin provides a set of intertwined tools and a user interface for easing 
 ## Use Case #7 - Analysis using Google Earth Engine
 If you look forward to learning raster data analysis. QGIS provides a way to integrate with one of the most powerful tools in the world, the Google Earth Engine through QGIS Python Console. You can start with this [tutorial](https://github.com/giswqs/qgis-earthengine-examples/).
 
-## "You never know what you can do till you try." - William Cobbett
+# "You never know what you can do till you try." - William Cobbett
 
